@@ -1,6 +1,27 @@
 {
   "dependencies": {
     "@arcjet/inspect": "^1.0.0-beta.14",
-    "@arcjet/node": "^1.0.0-beta.14"
-  }
+    "@arcjet/node": "^1.0.0-beta.14",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "name": "production_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkapk/production_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hkapk/production_api/issues"
+  },
+  "homepage": "https://github.com/hkapk/production_api#readme"
 }
